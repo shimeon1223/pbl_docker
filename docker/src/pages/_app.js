@@ -1,6 +1,6 @@
 // pages/_app.js
 import '../styles/globals.css'
-import '../public/mysite/mysite.css'
+import "../public/mysite/mysite.css"
 import { ChakraProvider } from '@chakra-ui/react'
 // 1. Import the extendTheme function
 
